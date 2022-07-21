@@ -5,4 +5,7 @@ package com.lw.test;
  * @date 2022/7/21 9:44
  */
 public class TestB {
+    public static void main(String[] args) {
+        System.out.println("testb");
+    }
 }
